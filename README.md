@@ -46,7 +46,7 @@ Terdapat kelas Mahasiswa
     - Program akan menampilkan pesan dialog "Data berhasil dihapus !"
   - Jika memilih "No"
     - Program akan reset form
-    - Program akan menampilkan pesan dialog "Data gagal dihapus !"
+    - Program akan menampilkan pesan dialog "Data batal dihapus !"
     
     
 ## Dokumetasi Program
