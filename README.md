@@ -23,16 +23,30 @@ Terdapat kelas Mahasiswa
 
 ## Alur Program
 1. Insert Data :
-  - 
-  - 
+  - Mengisi data pada form yaitu isi nim, nama, dan nilai pada TextField, memilih radio Button untuk data jenisKelamin, dan pilih data kelas pada drop down
+  - Tekan button Insert
+  - Program akan reset form dan megupdate table
+  - Program akan menampilkan pesan dialog "Data berhasil ditambahkan !"
   
 2. Update Data :
-  - 
-  - 
+  - memilih data mahasiswa pada tabel yang akan di update
+  - Program akan mengisi form dengan data mahasiswa yang telah dipilih
+  - Update data pada form
+  - Tekan button Update
+  - Program akan reset form dan megupdate table
+  - Program akan menampilkan pesan dialog "Data berhasil diupdate !"
   
 3. Delete Data :
-  - 
-  - 
+  - memilih data mahasiswa pada tabel yang akan di hapus
+  - Program akan mengisi form dengan data mahasiswa yang telah dipilih
+  - Tekan button Hapus
+  - Program akan menampilkan konfirmasi dialog "Apakah Anda yakin akan menghapus data ini "
+  - Jika memilih "Yes"
+    - Program akan reset form dan megupdate table
+    - Program akan menampilkan pesan dialog "Data berhasil dihapus !"
+  - Jika memilih "No"
+    - Program akan reset form
+    - Program akan menampilkan pesan dialog "Data gagal dihapus !"
     
     
 ## Dokumetasi Program
